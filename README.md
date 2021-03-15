@@ -2,6 +2,7 @@
 - 👀 I’m interested in reverse engineeering and low level stuff :D
 - 🌱 I’m currently learning binary exploitation, assembly and low level stuff
 - 📫 How to reach me: Discord (@faabi#7907)
+- you will find some writeups for CTFs here ! 
 
 
 <!---
